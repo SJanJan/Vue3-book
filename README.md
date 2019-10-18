@@ -12,19 +12,13 @@
 - 现在学会了 `composition api`，并用到实际项目中，等到 Vue 3 正式版一出来，你就可以无缝、顺滑的迁移到 Vue3，在这个时代，天下武功唯快不破。
 - `composition api` 它真的非常棒！
 
-## 插件详细信息
-
-- [Composition API github 地址](https://github.com/vuejs/composition-api)
-
-- [Composition API 文档地址](https://vue-composition-api-rfc.netlify.com/)
-
 ## 阅读对象
 
-掌握 html、css、js 和 vue 基础的读者。
+掌握 vue 基础的读者。
 
-## 须知
+## 最后
 
-本书利用本人的业余时间编写，时间仓促，有小错误在所难免，还请见谅，如您发现有任何错误，或者您有更多建议，欢迎在仓库上提交 Issues,本人会尽力回复。
+不管我多么努力，我是人，仍然会犯错误，如果你发现错误，请与我分享，请第一时间给我提 issus，是我能改进本书。
 
 ## License
 
